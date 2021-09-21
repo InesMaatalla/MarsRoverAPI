@@ -18,7 +18,4 @@ public List<MarsPhoto> getPhotos() {
 public void setPhotos(List<MarsPhoto> photos) {
 	this.photos = photos;
 }
-
-
-
 }
